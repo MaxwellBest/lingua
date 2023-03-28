@@ -8,3 +8,5 @@ article = "London"
 accent = "American"
 2. you need to change your own chrome profile
 3. you need to be a member of lingua
+
+(the jupyter notebook one is my learning experience)
